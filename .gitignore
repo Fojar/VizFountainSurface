@@ -1,0 +1,10 @@
+*.suo
+*.opensdf
+*.sdf
+*.user
+
+Nile/Output/*
+Nile/Debug/*
+
+VizFountain/bin/*
+VizFountain/obj/*
